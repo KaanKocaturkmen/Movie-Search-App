@@ -1,41 +1,38 @@
-🎬 Movie Search App
-Welcome to the Movie Search App!
-This is a simple web application that allows users to search for movies using the OMDb API. The app fetches movie data and displays results dynamically in the browser.
+# 🎬 Movie Search App
 
-🛠️ Note: This was one of my early projects when I started learning to code.
+Welcome to the **Movie Search App**!  
+This is a simple web application that allows users to search for movies using the [OMDb API](http://www.omdbapi.com/). The app fetches movie data and displays results dynamically in the browser.
 
-🔗 Live Demo
-👉 Check it out here
+> 🛠️ **Note:** This was one of my early projects when I started learning to code.
 
-✨ Features
-🔍 Search for movies by title
+## 🔗 Live Demo
 
-🖼️ Display movie posters, titles, and release years
+👉 [Check it out here](https://kaankocaturkmen.github.io/Movie-Search-App/)
 
-📡 Fetch data using an external API (OMDb)
+## ✨ Features
 
-💡 Responsive and beginner-friendly UI
+- 🔍 Search for movies by title  
+- 🖼️ Display movie posters, titles, and release years  
+- 📡 Fetch data using an external API (OMDb)  
+- 💡 Responsive and beginner-friendly UI
 
-🛠️ Technologies Used
-HTML
+## 🛠️ Technologies Used
 
-CSS
+- HTML  
+- CSS  
+- JavaScript  
+- [OMDb API](https://www.omdbapi.com/)
 
-JavaScript
+## 🚀 Getting Started
 
-OMDb API
-
-🚀 Getting Started
 To run the project locally:
 
-Clone the repository:
+1. Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/kaankocaturkmen/Movie-Search-App.git
-cd Movie-Search-App
-Open index.html in your browser.
+   ```bash
+   git clone https://github.com/kaankocaturkmen/Movie-Search-App.git
+   cd Movie-Search-App
+
 
 🔐 Note: You'll need an API key from OMDb if you plan to modify the code and use your own version.
 
